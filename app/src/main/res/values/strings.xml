@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TimeInPhoneProject</string>
+    <string name="open_app_usage_setting">Open Apps with usage access settings</string>
+    <string name="time_span">"Time span: "</string>
+
+    <string name="app_name_label">App</string>
+
+    <string name="usage_time_label">Usage time:</string>
+    <string name="usage_time">Usage time</string>
+
+    <string name="app_icon">APP ICON</string>
+    <string name="package_name">Package name</string>
+    <string name="pie_chart">Pie chart</string>
+    <string name="bar_chart">Bar chart</string>
+    <string name="total_apps_usage_time">Total apps usage time:</string>
+
+    <string-array name="list_intervals">
+        <item>Weekly</item>
+        <item>Monthly</item>
+        <item>Half-year</item>
+        <item>Yearly</item>
+    </string-array>
+</resources>
